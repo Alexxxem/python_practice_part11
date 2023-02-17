@@ -22,5 +22,5 @@ def create_response(item_ids):
 
 print(create_response([1, 2, 3]))
 print(create_response("hello"))
-print(create_response(5))
+
 
